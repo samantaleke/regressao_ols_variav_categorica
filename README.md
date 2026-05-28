@@ -1,0 +1,1 @@
+# regressao_ols_variav_categorica
